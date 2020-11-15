@@ -1,0 +1,27 @@
+
+h1{color:rgb(133,57,234); font-family:sans-serif; font-style:italic; margin-left: 50px;}
+
+.header{background-color:white; display: flex; justify-content: space-between; color:white;}
+.grid{display: flex; justify-content: space-evenly; flex-wrap: wrap; color:white;}
+.footer{ display: flex; justify-content: flex-end; color:white;}
+.project{ text-align: center; color:white;}
+.game1{text-align: start; color: yellow;}
+.game2{text-align: end; color: yellowgreen;}
+.game3{text-align: start; color: violet;}
+.game4{text-align: end; color:tan;}
+.game5{text-align: start; color: teal;}
+.game6{text-align: end; color: tomato;}
+.game7{text-align: start; color: turquoise;}
+.game8{text-align: end; color: saddlebrown;}
+.game9{text-align: start; color: salmon;}
+.game10{text-align: end; color: seagreen;}
+.game11{text-align: start; color: sienna;}
+.game12{text-align: end; color: skyblue;}
+.game13{text-align: start; color: slateblue;}
+.game14{text-align: end; color: slategray;}
+.game15{text-align: start; color: springgreen;}
+.game16{text-align: end; color: steelblue;}
+.hi{text-align: start; color:white; margin-left:70px ;}
+.h{text-align: start; color:white; margin-left:70px ; font-size: 40px;}
+body{background-color: #000;}
+.menu{ display: flex; gap:30px 20px; }
